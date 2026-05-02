@@ -31,5 +31,5 @@ My Contribution: -
 3. Created volumetric mist effect
 4. Built the complete OpenGL rendering pipeline
 
-Note
+Note: -
 This project is based on a team research work. This repository contains my implementation of the system.
